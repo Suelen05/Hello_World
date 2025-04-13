@@ -2,7 +2,7 @@
 
 ## 📚 Repositório de Códigos e Exercícios de Aula
 
-Este repositório tem como objetivo arquivar e organizar os exemplos de códigos e os exercícios realizados durante as aulas do curso Bradesco - Java Cloud Native realizado pela DIO.
+Este repositório tem como objetivo arquivar e organizar os exemplos de códigos e os exercícios realizados durante as aulas do curso Bradesco - Java Cloud Native realizado pela DIO - Digital Inovation One.
 
 ## 📁 Estrutura do Repositório
 
