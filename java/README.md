@@ -43,4 +43,7 @@ Este repositório será atualizado ao longo do semestre conforme novos conteúdo
 
     - Algumas soluções podem conter abordagens diferentes para o mesmo problema.
 
-Desenvolvido por Suelen Fraga –  2025
+👨‍🏫 Autor
+Suelen Fraga
+suelen05@edu.unisinos.br
+UNISINOS - Universidade do Vale do Rio dos Sinos
