@@ -10,7 +10,7 @@ O repositório está organizado da seguinte forma:
 
 - `exemplos/` – Contém os códigos apresentados como exemplo durante as aulas.
 - `exercicios/` – Contém os exercícios propostos, com ou sem resolução.
-- `docs/` – Materiais de apoio, anotações ou slides utilizados em aula.
+- `Material de apoio/` – Materiais de apoio, anotações ou slides utilizados em aula.
 - `README.md` – Arquivo de descrição do projeto (este arquivo).
 
 ## 💻 Tecnologias e Ferramentas
@@ -31,19 +31,20 @@ O repositório está organizado da seguinte forma:
 
 3. Execute os arquivos de exemplo ou resolva os exercícios localmente.
 
-📝 Contribuição
+## 📝 Contribuição
 Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos e exercícios. Basta abrir um pull request ou uma issue com sua sugestão.
 
-📅 Atualizações
+## 📅 Atualizações
 Este repositório será atualizado ao longo do semestre conforme novos conteúdos forem abordados em aula.
 
-📌 Observações
+## 📌 Observações
 
     - Os códigos presentes aqui são apenas para fins educacionais.
 
     - Algumas soluções podem conter abordagens diferentes para o mesmo problema.
 
-👨‍🏫 Autor
-Suelen Fraga
-suelen05@edu.unisinos.br
-UNISINOS - Universidade do Vale do Rio dos Sinos
+## ✍️ Autor
+Feito por Suelen Fraga
+
+🔗 [LinkedIn](https://www.linkedin.com/in/suelen05/) | [GitHub](https://github.com/Suelen05) |
+[E-mail](suelen05@edu.unisinos.br)
