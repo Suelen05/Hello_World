@@ -1,5 +1,7 @@
 # **Programação Orientada a objetos**
 
+---
+
 ## 📚Classes
 
 - **Classe de modelo (model):** Classes que representem estrutura de dominio da aplicação, exemplo: Cliente, Pedido, Nota Fiscal e etc...
