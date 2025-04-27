@@ -1,4 +1,4 @@
-package edu.suelen.exemplos.PilaresPOO;
+package edu.suelen.exemplos.ExemploPilaresPOO;
 
 public class Autodramo {
     public static void main(String[] args) {

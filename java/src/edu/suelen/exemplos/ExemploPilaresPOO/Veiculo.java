@@ -1,4 +1,4 @@
-package edu.suelen.exemplos.PilaresPOO;
+package edu.suelen.exemplos.ExemploPilaresPOO;
 
 public abstract class Veiculo {
 

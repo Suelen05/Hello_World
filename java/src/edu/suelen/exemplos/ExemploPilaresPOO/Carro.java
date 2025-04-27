@@ -1,4 +1,4 @@
-package edu.suelen.exemplos.PilaresPOO;
+package edu.suelen.exemplos.ExemploPilaresPOO;
 
 public class Carro extends Veiculo{ //Extends é a aplicação dos métodos e variáveis da classe Veiculo na classe Carro
 
