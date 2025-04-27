@@ -232,3 +232,5 @@ Veiculo determina duas ações como acelerar e frear, primeiramente precisamos i
 
 Java não permite **Herança Múltipla**, ou seja herdar características de mais de uma classe. 
 para isso utilizamos interfaces 
+
+mais detalhes em Exemplo Interfaces - [Interfaces](../exemplos/ExemploInterfaces/Fabrica.java)
