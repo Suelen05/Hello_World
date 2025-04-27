@@ -1,6 +1,6 @@
 package edu.suelen.exemplos.ExemploInterfaces;
 
-import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Digitalizadora;
+//import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Digitalizadora;
 import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Scanner;
 import edu.suelen.exemplos.ExemploInterfaces.Impressora.Deskjet;
 import edu.suelen.exemplos.ExemploInterfaces.Impressora.Impressora;
