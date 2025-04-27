@@ -54,10 +54,10 @@ com.controle.acesso.model.Usuário
 
 ## 👁️Visibilidade
 
-1. **Public:** Visível para qualquer outra classe, em qualquer pacote.
-2. **Default:** Restringe a visibilidade por pacotes.
-3. **Private:** Apenas a classe tem acesso; 
-4. **Protected:** assegura que somente classes filhas ou de mesmo pacote acesse seus recursos de mesmo acesso.
+1. 🔓**Public:** Visível para qualquer outra classe, em qualquer pacote.
+2. 🔏**Default:** Restringe a visibilidade por pacotes.
+3. 🔒**Private:** Apenas a classe tem acesso; 
+4. 🔐**Protected:** assegura que somente classes filhas ou de mesmo pacote acesse seus recursos de mesmo acesso.
  ---
 
  ## 🔧Getters e Setters
@@ -142,7 +142,7 @@ public class Aluno{
 }
 ```
 ---
-## Enums
+## 🧮Enums
 
 Classe onde os objetos são previamente criados, imutáveis e disponíveis em toda a aplicação.
 
@@ -187,7 +187,9 @@ public enum EstadoBrasileiro{
 
 ## 🏛️Quatro Pilares da Orientação a Objetos
 
-### Encapsulamento
+Exemplo de implementação dos pilares de POO estão em  - [Autódromo](../exemplos/ExemploPilaresPOO/Autodramo.java)
+
+### 💊Encapsulamento
 
 Nem tudo precisa estar visível, grande pate do algoritmo pode ser distribuído em métodos com finalidades especificas que complementam uma ação na aplicação.
 
@@ -196,7 +198,7 @@ Ligar um veiculo exige muitas etapas para a engenharia, mas o condutor só visua
 
 ---
 
-### Herança
+### 👨‍👩‍👧‍👦Herança
 
 Características e comportamentos comuns podem ser elevados e compartilhados através de uma hierarquia de objetos.
 
@@ -205,7 +207,7 @@ Um carro e uma moto possuem propriedades em comum, como placa, chassi, ano de fa
 
 ---
 
-### Abstração
+### 🎨Abstração
 
 É a indisponibilidade para determinar a lógica de um ou vários comportamentos em um objeto.
 
@@ -214,10 +216,19 @@ Veiculo determina duas ações como acelerar e frear, logo estes comportamentos 
 
 ---
 
-### Polimorfismo
+### 🧬Polimorfismo
 
 São as inúmeras maneiras de se realizar uma mesma ação.
 
 **Exemplo:**
 Veiculo determina duas ações como acelerar e frear, primeiramente precisamos identificar se estamos nos referindo a um Carro ou uma Moto para determinar a lógica de aceleração e freagem.
 
+---
+
+## 📱Interfaces
+
+>[!WARNING]
+>Não estamos falando de Interfaces Gráficas
+
+Java não permite **Herança Múltipla**, ou seja herdar características de mais de uma classe. 
+para isso utilizamos interfaces 
