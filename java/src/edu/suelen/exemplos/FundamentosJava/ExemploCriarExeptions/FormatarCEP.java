@@ -1,4 +1,4 @@
-package edu.suelen.exemplos.ExemploCriarExeptions;
+package edu.suelen.exemplos.FundamentosJava.ExemploCriarExeptions;
 
 import java.util.Scanner;
 

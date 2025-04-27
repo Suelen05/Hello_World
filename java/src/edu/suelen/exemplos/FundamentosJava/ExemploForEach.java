@@ -1,4 +1,4 @@
-package edu.suelen.exemplos;
+package edu.suelen.exemplos.FundamentosJava;
 
 public class ExemploForEach {
     public static void main(String[] args) {

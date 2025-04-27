@@ -1,4 +1,4 @@
-package edu.suelen.exemplos;
+package edu.suelen.exemplos.FundamentosJava;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

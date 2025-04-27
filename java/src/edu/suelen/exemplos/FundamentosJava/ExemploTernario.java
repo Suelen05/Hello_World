@@ -1,4 +1,4 @@
-package edu.suelen.exemplos;
+package edu.suelen.exemplos.FundamentosJava;
 
 public class ExemploTernario {
     public static void main(String[] args) {
