@@ -1,6 +1,6 @@
 # Como Executar um Programa Java via Terminal
 
-- Localozar a pasta bin com o arquivo .class
+- Localizar a pasta bin com o arquivo .class
 
 - Abrir o terminal na pasta bin (ou ir até ela)
 
@@ -10,9 +10,9 @@
     ```
 <sub>_Não precisa colocar o **.class**_</sub> 
 
-Classe com parametros 
+Classe com parâmetros 
 ```
-java NomeClass Prametro1 Parametro2
+java NomeClass Parâmetro1 Parâmetro2
 ```
 
 Comando para criar documentação em Java:

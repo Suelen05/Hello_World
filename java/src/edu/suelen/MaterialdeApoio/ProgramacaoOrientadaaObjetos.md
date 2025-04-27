@@ -4,19 +4,19 @@
 
 ## 📚Classes
 
-- **Classe de modelo (model):** Classes que representem estrutura de dominio da aplicação, exemplo: Cliente, Pedido, Nota Fiscal e etc...
+- **Classe de modelo (model):** Classes que representem estrutura de domínio da aplicação, exemplo: Cliente, Pedido, Nota Fiscal e etc...
 - **Classe de Serviço (service):** Classes que contém regras de negócio e validação de nosso sistema. Só a service respectiva se comunica com a sua repository. Essa separação é de arquitetura e de segurança
 - **Classe de repositório (repository):** Classes que contém uma integração com banco de dados.
 - **Classes de controle (controller):** Classes que possuem a finalidade de disponibilizar alguma comunicação externa à nossa aplicação, tipo http web ou webservices.
 - **Classe utilitária (util):** Classe que contém recursos comuns à toda a aplicação.
 
-![Classes](classes.png)
+![Classes](Imagens/classes.png)
 
 ---
 
 ## 📦Pacotes
 
-### 1. 📄Nomeclaturas
+### 1. 📄Nomenclaturas
 
 - Comercial: com.nomeDoPacote
 - Governamental: gov.nomeDoPacote
@@ -36,11 +36,11 @@
 ### 3. 🪪Identificação
 
 - nome da empresa
-- nome proprio
+- nome próprio
 
 Exemplo: 
 
-com.controle.acesso.model.Usuario
+com.controle.acesso.model.Usuário
 
 ---
 
@@ -54,7 +54,7 @@ com.controle.acesso.model.Usuario
 
 ## 👁️Visibilidade
 
-1. **Public:** Visivel para qualquer outra classe, em qualquer pacote.
+1. **Public:** Visível para qualquer outra classe, em qualquer pacote.
 2. **Default:** Restringe a visibilidade por pacotes.
 3. **Private:** Apenas a classe tem acesso; 
 4. **Protected:** assegura que somente classes filhas ou de mesmo pacote acesse seus recursos de mesmo acesso.
@@ -110,7 +110,7 @@ public class Aluno{
 ---
 ## 🛠️Construtor
 
-Ao instanciar um novo objeto podemos necessitar **obrigatóriamente** de algumas informações essenciais para isso usamos construtores.
+Ao instanciar um novo objeto podemos necessitar **obrigatoriamente** de algumas informações essenciais para isso usamos construtores.
 
 Exemplo:
 
@@ -144,19 +144,19 @@ public class Aluno{
 ---
 ## Enums
 
-Classe onde os objetos são previamente criados, imutaveis e disponiveis em toda a aplicação.
+Classe onde os objetos são previamente criados, imutáveis e disponíveis em toda a aplicação.
 
 Exemplo: 
-- **Estado civil:** Solteiro, Casado, Viuvo, Divorciado, etc...
+- **Estado civil:** Solteiro, Casado, Viúvo, Divorciado, etc...
 - **Grau de escolaridade:** Analfabeto, Fundamental, Médio, superior
 
 
 >[!IMPORTANT]
 >Não confunda uma lista de constantes com enums
 
-Enquanto um constante é uma variavel de tipo com valor imutavel, um enum é um conjunto de objetos pré-definidos na aplicação.
+Enquanto um constante é uma variável de tipo com valor imutável, um enum é um conjunto de objetos pré-definidos na aplicação.
 
-Como um enum é um conjunto de objetos, podem conter atributos e metodos.
+Como um enum é um conjunto de objetos, podem conter atributos e métodos.
 
 Exemplo: 
 ``` java
