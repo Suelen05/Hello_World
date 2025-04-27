@@ -1,7 +1,7 @@
 package edu.suelen.exemplos.ExemploInterfaces;
 
 //import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Digitalizadora;
-import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Scanner;
+//import edu.suelen.exemplos.ExemploInterfaces.Digitalizadora.Scanner;
 import edu.suelen.exemplos.ExemploInterfaces.Impressora.Deskjet;
 import edu.suelen.exemplos.ExemploInterfaces.Impressora.Impressora;
 import edu.suelen.exemplos.ExemploInterfaces.Multifuncional.EquipamentoMultifuncional;
@@ -13,7 +13,7 @@ public class Fabrica {
         EquipamentoMultifuncional multifuncional = new EquipamentoMultifuncional();
 
         Deskjet deskjet = new Deskjet();
-        Scanner scanner = new Scanner(); //Cuidar com o pacote que esta sendo importado
+        //Scanner scanner = new Scanner(); //Cuidar com o pacote que esta sendo importado
 
         Impressora impressora = deskjet;
         //Digitalizadora digitalizadora = deskjet; //deskjet não consegue ser uma digitalizadora pois não possui essa interface
