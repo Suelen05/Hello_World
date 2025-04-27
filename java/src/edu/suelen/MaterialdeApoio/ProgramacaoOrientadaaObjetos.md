@@ -185,3 +185,39 @@ public enum EstadoBrasileiro{
 ```
 ---
 
+## 🏛️Quatro Pilares da Orientação a Objetos
+
+### Encapsulamento
+
+Nem tudo precisa estar visível, grande pate do algoritmo pode ser distribuído em métodos com finalidades especificas que complementam uma ação na aplicação.
+
+**Exemplo:**
+Ligar um veiculo exige muitas etapas para a engenharia, mas o condutor só visualiza a ignição para dar a partida.
+
+---
+
+### Herança
+
+Características e comportamentos comuns podem ser elevados e compartilhados através de uma hierarquia de objetos.
+
+**Exemplo:**
+Um carro e uma moto possuem propriedades em comum, como placa, chassi, ano de fabricação, cor , métodos para acelerar, frear, etc. Logo para não ser um processo de codificação redundante, podemos desfrutar da herança criando uma classe **Veiculo** para que seja herdada por Carro e Moto.
+
+---
+
+### Abstração
+
+É a indisponibilidade para determinar a lógica de um ou vários comportamentos em um objeto.
+
+**Exemplo:** 
+Veiculo determina duas ações como acelerar e frear, logo estes comportamentos deverão ser abstratos pois existem mais de uma maneira de se realizar a mesma operação. (polimorfismo)
+
+---
+
+### Polimorfismo
+
+São as inúmeras maneiras de se realizar uma mesma ação.
+
+**Exemplo:**
+Veiculo determina duas ações como acelerar e frear, primeiramente precisamos identificar se estamos nos referindo a um Carro ou uma Moto para determinar a lógica de aceleração e freagem.
+
