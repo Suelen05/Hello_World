@@ -6,11 +6,12 @@
 
  Github do Curso de Git e GitHub  - [GitHub Curso de Git](https://github.com/elidianaandrade/dio-curso-git-github)
 
- GitHub Java Basico - [Trilha java basico](https://github.com/digitalinnovationone/trilha-java-basico)
+ GitHub Java Básico - [Trilha java basico](https://github.com/digitalinnovationone/trilha-java-basico)
 
  Java Documentation - [All Classes](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html)
 
  Git Debugging - [Debugging Java](https://github.com/cami-la/debugging-java)
 
+Exercícios Java - [Github](https://github.com/digitalinnovationone/exercicios-java-basico.git)
 
 
