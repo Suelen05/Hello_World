@@ -1,6 +1,3 @@
-
-
-
 package edu.suelen.exercicios.Metodos;
 
 public class SmartTV {

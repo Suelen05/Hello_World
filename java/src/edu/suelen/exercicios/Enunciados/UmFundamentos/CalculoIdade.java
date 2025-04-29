@@ -1,4 +1,4 @@
-package edu.suelen.exercicios.UmFundamentos;
+package edu.suelen.exercicios.Enunciados.UmFundamentos;
 
 import java.time.LocalDate;
 import java.util.Scanner;
