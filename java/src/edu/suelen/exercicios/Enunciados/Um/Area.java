@@ -1,4 +1,4 @@
-package edu.suelen.exercicios.Enunciados.UmFundamentos;
+package edu.suelen.exercicios.Enunciados.Um;
 
 public class Area {
 

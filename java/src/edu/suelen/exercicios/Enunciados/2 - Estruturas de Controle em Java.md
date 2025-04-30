@@ -1,6 +1,6 @@
 # Exercícios 
 
-1. Escreva um código onde o usuário entra com um número e seja gerada a tabuada de 1 até 10 desse número;
+1. Escreva um código onde o usuário entra com um número e seja gerada a tabuada de 1 até 10 desse número;✔️
 
 2. Escreva um código onde o usuário entra com sua altura e peso, seja feito o calculo do seu IMC(IMC = peso/(altura * altura)) e seja exibida a mensagem de acordo com o resultado:
    - Se for menor ou igual a 18,5 "Abaixo do peso";
