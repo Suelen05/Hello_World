@@ -9,26 +9,25 @@ import java.util.Scanner;
 public class Saldo {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
         // Entrada do saldo inicial
-        double saldoInicial = scanner.nextDouble();
-        double saldoFinal = saldoInicial;
-
-        
-        for (int i = 0; i < 3; i++){
-
-          double transacao = scanner.nextDouble();
-          saldoFinal += transacao;
+        try (Scanner scanner = new Scanner(System.in)) {
+            // Entrada do saldo inicial
+            double saldoInicial = scanner.nextDouble();
+            double saldoFinal = saldoInicial;
             
+            
+            for (int i = 0; i < 3; i++){
+                
+                double transacao = scanner.nextDouble();
+                saldoFinal += transacao;
+                
+            }
+            
+            
+            
+            
+            // Saldo final
+            System.out.printf("%.2f\n", saldoFinal);
         }
-        
-
-        
-        
-        // Saldo final
-        System.out.printf("%.2f\n", saldoFinal);
-
-        scanner.close();
     }
 }
