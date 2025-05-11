@@ -1,6 +1,6 @@
 package edu.suelen.exemplos.ExemploInterfaces.Digitalizadora;
 
-public class Scanner implements Digitalizadora {
+public class Escanner implements Digitalizadora {
 
     @Override
     public void digitalizar() {

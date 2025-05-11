@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class ParImparIntervalo {
     public static void main(String[] args) {
+
+        
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("informe umm numero: ");
             int num1 = scanner.nextInt();
@@ -24,18 +26,25 @@ public class ParImparIntervalo {
 
     public static void achaPar(int num1, int num2){
 
-        for( int i = num2; i <= num1; i--){
+        System.out.println("PAR");
+        
+
+        for(int i = num2; i >= num1; i--){
+            
             if(i % 2 == 0){
                 System.out.println(i);
             }
+            
         }
 
     }
 
     public static void achaImpar(int num1, int num2){
 
-        for( int i = num2; i <= num1; i--){
-            if(i % 2 == 1){
+        System.out.println("IMPAR");
+
+        for( int i = num2; i >= num1; i--){
+            if(i % 2 != 0){
                 System.out.println(i);
             }
         }
