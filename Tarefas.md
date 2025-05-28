@@ -2,24 +2,24 @@
 
 ## Organização e Arquitetura de Computadores
 
-- Questionários Evolução dos Computadores
-- Questionário de Tradutores de Linguagens
+- [x] Questionários Evolução dos Computadores
+- [x] Questionário de Tradutores de Linguagens (*não estava mais disponível*)
 
 ## Computação de alto desempenho
 
-- Desenvolvimento com Memória Compartilhada
-- Trabalho do Grau B <span style="color: red;">17/06</span>
-- Desenvolvimento com Passagem de Mensagens
-- Pesquisa sobre Clusters Computacionais
+- [ ] Desenvolvimento com Memória Compartilhada
+- [ ] Trabalho do Grau B <span style="color: red;">17/06</span>
+- [ ] Desenvolvimento com Passagem de Mensagens
+- [ ] Pesquisa sobre Clusters Computacionais
 
 ## Internet das Coisas: Sensores, Protocolos e Aplicações
 
-- Atividade extraclasse: estudos de caso de IoT <span style="color: red;">04/06</span>
-- Atividade extraclasse: Node-RED <span style="color: red;">24/05</span>
-- Atividade Prática – Interoperabilidade
-- Simulação - Comunicação em Rede com ESP32
-- Simulação com Arduino - Monitor de Temperatura
-- Smart Garden <span style="color: red;">18/06</span>
+- [ ] Atividade extraclasse: estudos de caso de IoT <span style="color: red;">04/06</span>
+- [ ] Atividade extraclasse: Node-RED <span style="color: red;">24/05</span>
+- [ ] Atividade Prática – Interoperabilidade
+- [ ] Simulação - Comunicação em Rede com ESP32
+- [ ] Simulação com Arduino - Monitor de Temperatura
+- [ ] Smart Garden <span style="color: red;">18/06</span>
 
 ---
 
