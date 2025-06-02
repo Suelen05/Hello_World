@@ -30,64 +30,65 @@
 - Questionários Evolução dos Computadores
 - Questionário de Tradutores de Linguagens
 
-### 29/05 - Quinta
-
-- Tentar Rodar C no note
-- Desenvolvimento com Memória Compartilhada
-
-### 30/05 - Sexta
-
-- Pesquisa sobre Clusters Computacionais
-- Atividade extraclasse: estudos de caso de IoT
-
-### 31/05 - Sábado
-
-- Atividade extraclasse: Node-RED
-
-### 01/06 - Domingo
-
-- Desenvolvimento com Passagem de Mensagens
-
 ### 02/06 - Segunda
 
-- Simulação com Arduino - Monitor de Temperatura
+- Tentar Rodar C no note
+- Atividade extraclasse: estudos de caso de IoT
 
 ### 03/06 - Terça
 
-- Simulação - Comunicação em Rede com ESP32
+- Pesquisa sobre Clusters Computacionais
+- Simulação com Arduino - Monitor de Temperatura
 
 ### 04/06 - Quarta
 
-- Atividade Prática – Interoperabilidade
+- Atividade extraclasse: Node-RED
 
 ### 05/06 - Quinta
 
-- Smart Garden
+- Desenvolvimento com Memória Compartilhada
 
 ### 06/06 - Sexta
 
-- Smart Garden
+- Desenvolvimento com Passagem de Mensagens
 
 ### 07/06 - Sábado
 
-- Smart Garden
+- Simulação - Comunicação em Rede com ESP32
 
 ### 08/06 - Domingo
 
-- HPC - GB
+- Atividade Prática – Interoperabilidade
+- Smart Garden
+
+### 09/06 - Segunda
+
+- Smart Garden
 
 ### 10/06 - Terça
 
-- Resumo para Prova de GB de HPC
+- Smart Garden
 
 ### 11/06 - Quarta
 
-- Resumo para Prova de GB de IoT
+- HPC - GB
 
 ### 12/06 - Quinta
 
 - HPC - GB
 
 ### 13/06 - Sexta
+
+- Resumo para Prova de GB de HPC
+
+### 14/06 - Sábado
+
+- Resumo para Prova de GB de IoT
+
+### 15/06 - Domingo
+
+- HPC - GB
+
+### 16/06 - Sexta
 
 - HPC - GB
