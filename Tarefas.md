@@ -27,8 +27,8 @@
 
 ### 28/05 - Quarta
 
-- Questionários Evolução dos Computadores
-- Questionário de Tradutores de Linguagens
+- Questionários Evolução dos Computadores ✔
+- Questionário de Tradutores de Linguagens ✔
 
 ### 02/06 - Segunda
 
