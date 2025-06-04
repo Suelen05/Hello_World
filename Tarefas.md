@@ -4,6 +4,7 @@
 
 - [x] Questionários Evolução dos Computadores
 - [x] Questionário de Tradutores de Linguagens (*não estava mais disponível*)
+- [ ] Comparação de VMs <span style="color: red;">09/06</span>
 
 ## Computação de alto desempenho
 
@@ -14,7 +15,7 @@
 
 ## Internet das Coisas: Sensores, Protocolos e Aplicações
 
-- [ ] Atividade extraclasse: estudos de caso de IoT <span style="color: red;">04/06</span>
+- [x] Atividade extraclasse: estudos de caso de IoT <span style="color: red;">04/06</span>
 - [ ] Atividade extraclasse: Node-RED <span style="color: red;">24/05</span>
 - [ ] Atividade Prática – Interoperabilidade
 - [ ] Simulação - Comunicação em Rede com ESP32
@@ -32,33 +33,37 @@
 
 ### 02/06 - Segunda
 
-- Tentar Rodar C no note
-- Atividade extraclasse: estudos de caso de IoT
+- Tentar Rodar C no note✔️
+- Atividade extraclasse: estudos de caso de IoT✔️
 
-### 03/06 - Terça
+### 05/06 - Quinta
 
 - Pesquisa sobre Clusters Computacionais
 - Simulação com Arduino - Monitor de Temperatura
 
-### 04/06 - Quarta
+### 06/06 - Sexta
 
 - Atividade extraclasse: Node-RED
+- Atividade Prática – Interoperabilidade
+- Simulação - Comunicação em Rede com ESP32
 
-### 05/06 - Quinta
+### 07/06 - Sábado 
 
 - Desenvolvimento com Memória Compartilhada
 
-### 06/06 - Sexta
+### 08/06 - Domingo 
 
-- Desenvolvimento com Passagem de Mensagens
+- Desenvolvimento com Passagem de ensagens
+- Comparação de VMs
 
-### 07/06 - Sábado
+### 10/06 - Segunda
 
-- Simulação - Comunicação em Rede com ESP32
+- Smart Garden
 
-### 08/06 - Domingo
+### 11/06 - Quarta
 
-- Atividade Prática – Interoperabilidade
+- HPC - GB
+
 - Smart Garden
 
 ### 09/06 - Segunda
