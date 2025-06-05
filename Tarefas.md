@@ -39,12 +39,12 @@
 ### 05/06 - Quinta
 
 - Simulação com Arduino - Monitor de Temperatura
-- Atividade extraclasse: Node-RED
+- Simulação - Comunicação em Rede com ESP32
 
 ### 06/06 - Sexta
 
-- Simulação - Comunicação em Rede com ESP32
 - Atividade Prática – Interoperabilidade
+- Atividade extraclasse: Node-RED
 
 ### 07/06 - Sábado 
 
