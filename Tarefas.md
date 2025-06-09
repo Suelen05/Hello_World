@@ -11,7 +11,7 @@
 - [ ] Desenvolvimento com Memória Compartilhada
 - [ ] Trabalho do Grau B <span style="color: red;">17/06</span>
 - [ ] Desenvolvimento com Passagem de Mensagens
-- [ ] Pesquisa sobre Clusters Computacionais
+- [ ] Programação com Paralelismo
 
 ## Internet das Coisas: Sensores, Protocolos e Aplicações
 
@@ -39,13 +39,14 @@
 ### 09/06 - Segunda
 
 - Comparação de VMs
-- Pesquisa sobre Clusters Computacionais
+- Desenvolvimento com Memória Compartilhada
 
 ### 10/06 - Terça
 
 - Resumo para Prova de GB de HPC
 - Desenvolvimento com Memória Compartilhada
 - Desenvolvimento com Passagem de mensagens
+- Programação com Paralelismo
 
 ### 11/06 - Quarta
 
