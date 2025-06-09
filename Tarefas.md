@@ -36,43 +36,27 @@
 - Tentar Rodar C no note ✔
 - Atividade extraclasse: estudos de caso de IoT ✔
 
-### 05/06 - Quinta
-
-- Simulação com Arduino - Monitor de Temperatura
-- Simulação - Comunicação em Rede com ESP32
-
-### 06/06 - Sexta
-
-- Atividade Prática – Interoperabilidade
-- Atividade extraclasse: Node-RED
-
-### 07/06 - Sábado 
-
-- Pesquisa sobre Clusters Computacionais
-- Desenvolvimento com Memória Compartilhada
-
-### 08/06 - Domingo 
-
-- Desenvolvimento com Passagem de mensagens
-- Comparação de VMs
-
 ### 09/06 - Segunda
 
-- Smart Garden
+- Comparação de VMs
+- Pesquisa sobre Clusters Computacionais
 
 ### 10/06 - Terça
 
 - Resumo para Prova de GB de HPC
-- HPC - GB
+- Desenvolvimento com Memória Compartilhada
+- Desenvolvimento com Passagem de mensagens
 
 ### 11/06 - Quarta
 
 - Resumo para Prova de GB de IoT
-- IoT - GB
+- Simulação com Arduino - Monitor de Temperatura
+- Simulação - Comunicação em Rede com ESP32
 
 ### 12/06 - Quinta
 
-- Smart Garden
+- Atividade Prática – Interoperabilidade
+- Atividade extraclasse: Node-RED
 
 ### 13/06 - Sexta
 
@@ -81,7 +65,20 @@
 ### 14/06 - Sábado
 
 - HPC - GB
+- Smart Garden
 
 ### 15/06 - Domingo
 
 - HPC - GB
+
+### 16/06 - Segunda
+
+- Smart Garden
+
+### 17/06 - Terça
+
+- HPC - GB
+
+### 18/06 - Quarta
+
+- Smart Garden
