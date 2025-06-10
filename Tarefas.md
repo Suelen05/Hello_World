@@ -36,11 +36,6 @@
 - Tentar Rodar C no note ✔
 - Atividade extraclasse: estudos de caso de IoT ✔
 
-### 09/06 - Segunda
-
-- Comparação de VMs
-- Desenvolvimento com Memória Compartilhada
-
 ### 10/06 - Terça
 
 - Resumo para Prova de GB de HPC
