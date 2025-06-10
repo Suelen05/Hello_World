@@ -4,7 +4,7 @@
 
 - [x] Questionários Evolução dos Computadores
 - [x] Questionário de Tradutores de Linguagens (*não estava mais disponível*)
-- [ ] Comparação de VMs <span style="color: red;">09/06</span>
+- [ ] Comparação de VMs <span style="color: red;">16/06</span>
 
 ## Computação de alto desempenho
 
@@ -71,6 +71,7 @@
 ### 15/06 - Domingo
 
 - HPC - GB
+- Comparação de VMs
 
 ### 16/06 - Segunda
 
